@@ -3299,6 +3299,10 @@ html.no-csstransitions .home-content__main {
     .contact__form {
         padding-right: 0;
     }
+    .s-contact {
+        background-size: cover;
+        background-position: 60% 15%; 
+    }
 }
 
 
